@@ -74,3 +74,6 @@ Feel free to submit pull requests for additional features or analysis methods. A
 
 ## License
 This project is licensed under the MIT License. Please refer to the LICENSE file for more information.
+
+## Contact
+If you have any questions or suggestions, please feel free to open an issue or contact me at oscartibaduiza@hotmail.com.
