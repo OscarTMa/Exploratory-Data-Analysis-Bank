@@ -74,19 +74,16 @@ Feel free to submit pull requests for additional features or analysis methods. A
 
 ## Structure
 
-EDA_Banco_Kaggle/
-├── README.md
-├── data/
-│   └── bank_data.csv
-├── notebooks/
-│   └── EDA_bank_data.ipynb
-└── dashboard/
-    ├── app.py
-    └── assets/
-
-
-
-
+EDA_Banco_Kaggle/                                                            
+├── README.md                                                        
+├── data/                                                                
+│   └── bank_data.csv                                                    
+├── notebooks/                                                             
+│   └── EDA_bank_data.ipynb                                                            
+└── dashboard/                                                                
+    ├── app.py                                                                
+    └── assets/                                             
+                                                                                
 ## License
 This project is licensed under the MIT License. Please refer to the LICENSE file for more information.
 
