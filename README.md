@@ -72,6 +72,21 @@ The dataset used is from Kaggle and contains banking-related information. This p
 ## Contributions
 Feel free to submit pull requests for additional features or analysis methods. All contributions are welcome to expand and enhance the project.
 
+## Structure
+
+EDA_Banco_Kaggle/
+├── README.md
+├── data/
+│   └── bank_data.csv
+├── notebooks/
+│   └── EDA_bank_data.ipynb
+└── dashboard/
+    ├── app.py
+    └── assets/
+
+
+
+
 ## License
 This project is licensed under the MIT License. Please refer to the LICENSE file for more information.
 
