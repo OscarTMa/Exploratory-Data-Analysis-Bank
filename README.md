@@ -74,7 +74,7 @@ Feel free to submit pull requests for additional features or analysis methods. A
 
 ## Structure
 
-EDA_Banco_Kaggle/                                                            
+Exploratory-Data-Analysis-Bank/                                                            
 ├── README.md                                                        
 ├── data/                                                                
 │   └── bank_data.csv                                                    
